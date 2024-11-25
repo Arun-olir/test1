@@ -91,7 +91,7 @@ p{
     display: inline-block;
 }
 /******* HEADER PART START *******/
-.top_head{
+/* .top_head{
 
 }
 .top_head p{
@@ -102,7 +102,7 @@ p{
 }
 .top_head a{
     
-}
+} */
 header{
     background: #0d132f00;
     padding: 0px 0px 5px;
@@ -222,9 +222,9 @@ to {
     font-size: 16px;
     font-weight: 500;
 }
-.sub_btn{
+/* .sub_btn{
 
-}
+} */
 .btns{
     background: #242424;
     color: #fff;
@@ -405,9 +405,9 @@ to {
 .about_bg{
     padding: 20px 0px 45px;
 }
-.about_con{
+/* .about_con{
 
-}
+} */
 .about_con p{
     color: #242424;
     font-size: 16px;
@@ -438,9 +438,9 @@ to {
 .fea_part:hover{
     transform: translateY(-8px);
 }
-.fea_part img{
+/* .fea_part img{
     
-}
+} */
 .fea_part h5{
     font-size: 19px;
     font-weight: 600;
@@ -620,9 +620,9 @@ to {
     width: 49%;
     max-width: 220px;
 }
-.mobile2{
+/* .mobile2{
 
-}
+} */
 .mobile3{
     position: relative;
     left: 40px;
@@ -644,9 +644,9 @@ to {
     max-width: 310px;
     margin: 0px 15px 0px;
 }
-.user_btn img{
+/* .user_btn img{
     
-}
+} */
 /******* USER PART END *******/
 
 /******* TRANSACTION PART START *******/
@@ -735,9 +735,9 @@ to {
 footer{
     padding: 40px 0px 0px;
 }
-.foot_con{
+/* .foot_con{
 
-}
+} */
 .foot_con h5{
     color: #242424;
     font-size: 20px;
@@ -758,9 +758,9 @@ footer{
 .foot_part{
     text-align: center;
 }
-.foot_part p{
+/* .foot_part p{
 
-}
+} */
 .foot_part .btn_1 {
     background: transparent;
     color: #000;
